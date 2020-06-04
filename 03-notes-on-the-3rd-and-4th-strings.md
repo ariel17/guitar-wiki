@@ -33,6 +33,10 @@ NOTE: _"Eighth notes beamed together is equal to a quarter note"_ **in time**.
 
 ## 3rd string note exercise
 
+Finger exercices: up and down all notes using the correct fingers.
+
+Next, music.
+
 ![](.gitbook/assets/3rdstringexercises.png)
 
 NOTE: next one has rhythm changed to **3/4**.
