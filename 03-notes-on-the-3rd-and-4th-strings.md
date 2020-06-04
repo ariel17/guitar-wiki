@@ -39,7 +39,7 @@ Next, music.
 
 ![](.gitbook/assets/3rdstringexercises.png)
 
-NOTE: next one has rhythm changed to **3/4**.
+NOTE: next one has changed rhythm to **3/4**.
 
 ![](.gitbook/assets/3rdstringexercises2.png)
 
