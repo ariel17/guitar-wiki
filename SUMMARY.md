@@ -9,4 +9,5 @@
 * [03 - Notes on the 3rd and 4th strings](03-notes-on-the-3rd-and-4th-strings.md)
 * [Interlude - Beam notation](interlude-beam-notation.md)
 * [04 - Notes on the 5th and 6th strings](04-notes-on-the-5th-and-6th-strings.md)
+* [Tools](tools.md)
 
